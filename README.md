@@ -12,3 +12,4 @@
 - git add -A
 - git commit -m "commit message"
 - git push origin main
+- git pull
